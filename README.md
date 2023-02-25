@@ -1,1 +1,1 @@
-# Budgetly
+# budgety
